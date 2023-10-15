@@ -9,3 +9,6 @@ Always create a gitignore file to prevent any publishing of your personal creden
 
 # part1_learningQML
 Redo of IBM's training documentation: https://qiskit.org/ecosystem/machine-learning/tutorials/03_quantum_kernel.html
+
+# part2_tryingKaggle
+Apply learnings to a kaggle dataset
